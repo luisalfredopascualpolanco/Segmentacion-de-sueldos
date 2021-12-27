@@ -1,0 +1,7 @@
+Explicacion del programa:
+
+Es una app de consola que permite el ingreso de multilples sueldos, entre 100 y 500.
+
+Los separa en dos grupos:
+1- Entre 100 y 300
+2- Mayor a 300
